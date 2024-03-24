@@ -1,0 +1,45 @@
+{
+  "short_name": "Asia",
+  "name": "Restaurante Asia",
+"description": "Restaurante chino en Medellín 🍜 con auténticos sabores asiáticos 🥢. Disfruta de platos deliciosos como arroz chino, chopsuey, lumpias y más 🥡. ¡Ven a probar la esencia de China! 🌟🌟🌟🌟🌟",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "favicon.webp",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/webp"
+    },
+    {
+      "src": "logo192.webp",
+      "type": "image/webp",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.webp",
+      "type": "image/webp",
+      "sizes": "512x512"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/images/logo.webp",
+      "sizes": "1280x720",
+      "type": "image/webp"
+    },
+    {
+      "src": "/images/logo.webp",
+      "sizes": "1280x720",
+      "type": "image/webp"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff",
+  "author": {
+    "name": "Aleksbm",
+    "email": "oficina.akmdigital@gmail.com"
+  }
+}
